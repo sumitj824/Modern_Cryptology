@@ -1,0 +1,28 @@
+"This is another magical screen. And this one I remember perfectly...
+	
+Consider a block of size 8 bytes as 8 x 1 vector over F_{128} --
+constructed using the degree 7 irreducible polynomial x^7 + x + 1
+over F_2. Define two transformations: first a linear transformation 
+given by invertible 8 x 8 key matrix A with elements from F_{128} and 
+second an exponentiation given by 8 x 1 vector E whose elements are 
+numbers between 1 and 126. E is applied on a block by taking the ith 
+element of the block and raising it to the power given by ith element in E.
+
+Apply these transformations in the sequence EAEAE on the input block
+to obtain the output block. Both E and A are part of the key.
+
+You can see the coded password by simply whispering 'password' near 
+the screen..."
+
+command : go -> wave -> dive -> go ->read -> password
+
+
+encrypted password  :    lhisinlijliuikmn lumtishqlrfnhfft
+decrypted password  :    mjmkmhmjljmmltlt lkmpifififififif
+
+Each pair to number :    116 117 114 116 100 119 110 110 101 122 48 48 48 48 48 48 
+
+ASCII              :     turtdwnnez000000
+
+final command : turtdwnnez
+

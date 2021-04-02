@@ -1,0 +1,63 @@
+
+
+//2nd 1 2 4 5 6
+
+Key 1 :45  freq: 154   ,  6  freq: 89
+Key 2 :51  freq: 163   ,  59  freq: 81
+Key 3 :37  freq: 107   ,  18  freq: 85
+Key 4 :7  freq: 292   ,  41  freq: 106
+Key 5 :16  freq: 167   ,  21  freq: 87
+Key 6 :44  freq: 84   ,  3  freq: 80
+Key 7 :1  freq: 78   ,  47  freq: 77
+Key 8 :54  freq: 108   ,  6  freq: 83
+
+
+Key 1 :45  freq: 1562   ,  25  freq: 734
+Key 2 :51  freq: 1593   ,  14  freq: 741
+Key 3 :37  freq: 1221   ,  1  freq: 712
+Key 4 :7  freq: 2991   ,  40  freq: 1123
+Key 5 :16  freq: 1745   ,  2  freq: 781
+Key 6 :13  freq: 761   ,  38  freq: 717
+Key 7 :63  freq: 671   ,  38  freq: 657
+Key 8 :54  freq: 1030   ,  55  freq: 729
+
+//1st 2 5 6 7 8
+Key 1 :45  freq: 130   ,  9  freq: 81
+Key 2 :51  freq: 325   ,  19  freq: 103
+Key 3 :37  freq: 124   ,  3  freq: 82
+Key 4 :7  freq: 109   ,  40  freq: 82
+Key 5 :16  freq: 167   ,  48  freq: 85
+Key 6 :30  freq: 307   ,  18  freq: 85
+Key 7 :12  freq: 191   ,  11  freq: 89
+Key 8 :54  freq: 190   ,  32  freq: 80
+
+Key 1 :45  freq: 1340   ,  12  freq: 715
+Key 2 :51  freq: 3177   ,  19  freq: 937
+Key 3 :37  freq: 1196   ,  22  freq: 698
+Key 4 :7  freq: 1151   ,  40  freq: 855
+Key 5 :16  freq: 1575   ,  37  freq: 749
+Key 6 :30  freq: 3104   ,  22  freq: 871
+Key 7 :12  freq: 1943   ,  20  freq: 801
+Key 8 :54  freq: 1928   ,  55  freq: 900
+
+
+key 1: 45
+key 2: 51
+key 4: 7
+key 5: 16
+key 6: 30
+key 7: 12
+key 8: 54
+
+
+Final key:
+0 0 1 1 1 0 0 67 1 1 1 1 0 1 0 67 1 1 0 0 1 0 1 67 1 1 1 1 1 0 1 67 0 1 1 0 1 0 0 67 1 0 1 0 0 1 0 67 1 1 1 0 1 1 0 67 0 0 0 0 1 0 0 67
+
+
+iojnqqsuqsnoqlflrjkuukpmstouosuu
+
+112 115 117 116 105 117 100 103 104 114 48 48 48 48 48 48 
+
+p s u t i u d g h r 0 0 0 0 0 0 
+
+psutiudghr
