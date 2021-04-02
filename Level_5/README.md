@@ -1,4 +1,4 @@
-# Playfair Cipher
+# AES Attack
 
 ## Commands used in the game
 <pre> 
