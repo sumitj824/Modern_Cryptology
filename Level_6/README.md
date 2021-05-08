@@ -91,7 +91,8 @@ Screen 8 :74 6f 20 61 20 74 72 65
 Screen 9 :61 73 75 72 65 20 66 6f
 Screen 10 :75 6e 64 20 62 79
 
-We concatenated each number and tried this string as padding. But this doesn’t give any root. So,we thought to convert string of concatenated numbers to ASCII and got following text:
+We concatenated each number and tried this string as padding. But this doesn’t give any root. 
+So,we thought to convert string of concatenated numbers to ASCII and got following text:
 You see a Gold-Bug in one corner. It is the key to a treasure found by
 
 After trying the above text as padding ,the obtained root is
