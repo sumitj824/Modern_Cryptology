@@ -1,4 +1,4 @@
-# Playfair Cipher
+#  Element of the Multiplicative group
 
 ## Commands used in the game
 <pre> 

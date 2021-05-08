@@ -18,7 +18,7 @@ We observed that all the output letters range from f to u, which corresponds to
 16 letters so we thought that encodings may be related with hex-base systems. When
 we observe two letters at a time (i.e. in pairs), we observe that all the pairs 
 are from “ff” to “mu”, which is a total of 128 pairs. Since we are using the 
-$$F_{128}$$ field here , each pair of characters must encode to a number from 0 to 127.
+F_{128} field here , each pair of characters must encode to a number from 0 to 127.
 Thus, we mapped ff to 0 , fe to 1 ,... , mu to 127. i.e., mu = 7*16 + 15 = 127.
 
 <strong>Observation</strong>
@@ -42,11 +42,11 @@ hi hi mi hi hi hi hi hi	:	ih ih km go gm ir gm kh
 
 
 We observed here that the ith block(pair) of plaintext only affects the 
-corresponding $$i^{th}$$ block of ciphertext and the blocks after that. 
-Or in other terms, the $$j^{th}$$ block of the ciphertexts depends on  all
-i blocks of plaintext where $$i \leq j$$. So the $$1^{st}$$ block of the 
-ciphertext depends only on the $$1^{st}$$ block of the plaintext, the 
-$$2^{nd}$$ block of the ciphertext depends only on the first two blocks 
+corresponding i^{th} block of ciphertext and the blocks after that. 
+Or in other terms, the j^{th} block of the ciphertexts depends on  all
+i blocks of plaintext where i <= j. So the 1st block of the 
+ciphertext depends only on the 1st block of the plaintext, the 
+2nd block of the ciphertext depends only on the first two blocks 
 of the plaintext, and so on.
 
 
@@ -83,7 +83,7 @@ block easily. Repeating this process for both the blocks of the encrypted passwo
 the full decrypted password.
 
 Each pair requires 128 iterations to get the corresponding pair of plaintext. So,to get the
-plaintext of one block (i.e. 8 pairs) we need $$128 \times 8$$ iterations. 
+plaintext of one block (i.e. 8 pairs) we need 128 x 8 iterations. 
 
 To find each block of decrypted password as mentioned above we used script.sh. In this firstly
 we generated  all 128 plaintext in plaintext.txt to find a specific pair using generate_input.cpp
@@ -115,7 +115,7 @@ Corresponding ASCII :     t u r t d w n n e z 0 0 0 0 0 0
 
 We tried turtdwnnez000000 but this was not the password. So, we thought 0’s were just 
 used for padding similar to level 4.
-So using $$\textbf{turtdwnnez}$$ as final command , we cleared the level.
+So using turtdwnnezas final command , we cleared the level.
 
 
 </pre>
